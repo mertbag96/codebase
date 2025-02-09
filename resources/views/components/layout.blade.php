@@ -10,6 +10,9 @@
             @vite(['resources/css/app.css', 'resources/js/app.js'])
         @endif
     </head>
-    <body>
+    <body class="mx-auto max-w-[75%] bg-gray-950">
+        <x-header />
+
+        {{ $slot }}
     </body>
 </html>
