@@ -7,7 +7,7 @@
     <div class="z-20">
         <div class="lg:w-2/3 text-center mx-auto">
             <div>
-                <h1 class="text-white font-bold text-5xl md:text-6xl xl:text-7xl">
+                <h1 class="text-white font-bold text-5xl md:text-6xl xl:text-7xl !leading-tight">
                     <span class="text-sky-400">Blogging</span>
                     Platform Tailored for Your Code
                     <span class="text-sky-400">Base</span>
