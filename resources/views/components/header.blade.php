@@ -8,7 +8,7 @@
         </div>
 
         <div class="flex items-center space-x-6">
-            <a href="/" class="py-1.5 px-3 rounded-xl font-bold bg-sky-500 text-white hover:bg-sky-400 transition-colors duration-300">
+            <a href="/register" class="py-1.5 px-3 rounded-xl font-bold bg-sky-500 text-white hover:bg-sky-400 transition-colors duration-300">
                 Get started
             </a>
         </div>

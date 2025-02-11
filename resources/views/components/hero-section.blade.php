@@ -21,7 +21,7 @@
             </div>
 
             <div class="mt-16 flex justify-center items-center space-x-6">
-                <a href="/" class="py-2 px-4 rounded-xl font-bold bg-sky-500 text-white hover:bg-sky-400 transition-colors duration-300">
+                <a href="/register" class="py-2 px-4 rounded-xl font-bold bg-sky-500 text-white hover:bg-sky-400 transition-colors duration-300">
                     Get started
                 </a>
                 <a href="/" class="py-2 px-4 rounded-xl font-bold bg-white text-slate-950 hover:bg-slate-100 transition-colors duration-300">
